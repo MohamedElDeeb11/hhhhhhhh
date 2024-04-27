@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "اول تاسك oop", "اول تاسك oop\اول تاسك oop.csproj", "{B1B71630-6FC5-46FA-9129-33B8D8999A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B71630-6FC5-46FA-9129-33B8D8999A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B71630-6FC5-46FA-9129-33B8D8999A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B71630-6FC5-46FA-9129-33B8D8999A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B71630-6FC5-46FA-9129-33B8D8999A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1A3C22-1634-4A73-9914-20E24238AEC5}
+	EndGlobalSection
+EndGlobal
